@@ -1,0 +1,26 @@
+=========================
+2006-07-03 07:56:40 v1_00
+=========================
+
+  2006-07-03 07:56:33 (r4) by rcaputo
+  lib/Acme/Phlegethoth.pm M; Makefile.PL M
+
+    Less lame ABSTRACT. 
+
+  2006-07-03 07:30:03 (r3) by rcaputo; Makefile.PL M
+
+    Put the README file in the archive directory, also. 
+
+  2006-07-03 07:26:53 (r2) by rcaputo; MANIFEST M
+
+    Add CHANGES and README. 
+
+  2006-07-03 07:24:42 (r1) by rcaputo
+  /trunk A; lib/Acme/Phlegethoth.pm A; /branches A; t A; lib A; MANIFEST
+  A; t/01_basic.t A; Makefile.PL A; /tags A; lib/Acme A
+
+    Initial commit. Whee! 
+
+==============
+End of Excerpt
+==============

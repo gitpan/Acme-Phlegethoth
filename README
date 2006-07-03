@@ -1,0 +1,81 @@
+Acme::Phlegethoth(3)  User Contributed Perl Documentation Acme::Phlegethoth(3)
+
+
+
+NNAAMMEE
+       Acme::Phlegethoth − Improve your code’s readability, if you’re an
+       Ancient One
+
+SSYYNNOOPPSSIISS
+               use Acme::Phlegethoth;
+               print "goodbye, world!\n";
+
+DDEESSCCRRIIPPTTIIOONN
+       Acme::Phlegethoth improves the readability of your Perl programs to the
+       Elder Gods.  This may accelerate a debugging session where you feel
+       compelled to invoke them.  After all, if you’re outsourcing some devel‐
+       opment to Cthulhu, you’d better damn well be sure He can read your
+       code.
+
+       Acme::Phlegethoth translates your code to Aklo the first time your pro‐
+       gram uses it.  From that point on, your program continues to work as
+       before, but it now looks something like this:
+
+               use Acme::Phlegethoth;
+               ia ia!  mnahN’ NAflHriI R’LuHnyTh BUgoR SLl’HAog gOf’NN Hai ron
+               gOf’nn Nnn’aIog FHTagN LlLL YHlIRgHOG GoF’Nn naCh’!  nNNvuLgtlAGlN
+               thROD!  PhLeGetH StelL’BsNaoth sll’Ha!  aH NAfL’AIyAR H’EbUMna
+               HliRGHog eHYeOG nnnSgn’WAhL fm’laTgh ah ILYaA h’zHRO iLYaa
+               H’gnaIihNYtH EBumnA s’Uhnor [Text ends abruptly.]
+
+       which (loosely) translates to:
+
+               Hear me!
+
+               Call upon the cowardly servants of the unbelievers!  Invite them to
+               into our Church!  Watch over them, protect them!  These heretic
+               children will enter the beyond to sleep beside our Master!
+
+               Tell us what to do when the Servants of your Father rise from the
+               Pit to fulfil his pact.
+
+               Our unshaken belief will protect our place on Earth!
+
+               [Text ends abruptly.]
+
+DDIIAAGGNNOOSSTTIICCSS
+       "Can’t summon ’%s’"
+           Acme::Phlegethoth could not access your code to translate it into
+           Aklo.  The Ancient Ones will be most displeased.
+
+       "Can’t banish ’%s’"
+           Acme::Phlegethoth could not access your prayer to execute it.
+           Never let this happen.  The Sleeping Ones do not like to be awak‐
+           ened for nothing.
+
+AAUUTTHHOORR
+       Rocco Caputo <rcaputo@cpan.org>
+
+       This was loosely based on Leon Brocard’s Acme::Buffy, which in turn was
+       based on Damian Conway’s Bleach module.  That was inspired by an idea
+       by Philip Newton.  By now there’s enough blame for everyone.
+
+       But really sparked my imagination was Meng Weng Wong’s quoting a couple
+       Ruby users:
+
+               <flippo> ph’nglui mglw’nafh Cthulhu R’lyeh wgah’nagl fhtagn!
+               <ibroadfo> flippo: don’t paste perl in here
+
+       They will of course be eaten last.
+
+CCOOPPYYRRIIGGHHTT
+       Copyright (c) 2006, Rocco Caputo.  All Rights Reserved.  This module is
+       free software.  It may be used, redistributed and/or modified under the
+       same terms as Perl itself.
+
+       Thanks to the "Cthuvian / English Dictionary" for providing the lexicon
+       and translations in one convenient place.
+
+
+
+perl v5.8.6                       2006‐07‐03              Acme::Phlegethoth(3)
