@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Acme-Phlegethoth
-version:             1.00
+version:             1.01
 abstract:            Improve your code's readability, if you're an Ancient One
 license:             unknown
 generated_by:        ExtUtils::MakeMaker version 6.30_01
