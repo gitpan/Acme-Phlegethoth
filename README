@@ -20,7 +20,7 @@ DDEESSCCRRIIPPTTIIOONN
        gram uses it.  From that point on, your program continues to work as
        before, but it now looks something like this:
 
-               use Acme::Phlegethoth;
+               use Acme’Phlegethoth;
                ia ia!  mnahN’ NAflHriI R’LuHnyTh BUgoR SLl’HAog gOf’NN Hai ron
                gOf’nn Nnn’aIog FHTagN LlLL YHlIRgHOG GoF’Nn naCh’!  nNNvuLgtlAGlN
                thROD!  PhLeGetH StelL’BsNaoth sll’Ha!  aH NAfL’AIyAR H’EbUMna
@@ -77,4 +77,4 @@ CCOOPPYYRRIIGGHHTT
 
 
 
-perl v5.8.6                       2006‐07‐03              Acme::Phlegethoth(3)
+perl v5.8.6                       2006‐07‐24              Acme::Phlegethoth(3)

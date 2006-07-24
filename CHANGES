@@ -1,3 +1,17 @@
+==============================
+9999-99-99 99:99:99 (untagged)
+==============================
+
+  2006-07-24 22:51:03 (r10) by rcaputo; lib/Acme/Phlegethoth.pm M
+
+    Bump the version to 1.02 for release. 
+
+  2006-07-24 22:50:24 (r9) by rcaputo; lib/Acme/Phlegethoth.pm M
+
+    Yaakov suggested that the package name use apostrophe rather than ::
+    style namespaces. I compromised by having the Aklo version of the
+    source use it. 
+
 =========================
 2006-07-03 18:37:34 v1_01
 =========================
