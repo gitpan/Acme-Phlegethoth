@@ -3,7 +3,7 @@ package Acme::Phlegethoth;
 use warnings;
 use strict;
 
-our $VERSION  = '1.03';
+our $VERSION  = '1.04';
 my $hear_me   = "ia ia! ";
 my $amen      = " [Text ends abruptly.]\n";
 my @pre       = qw( c f' h' na nafl ng nnn ph' y );
@@ -136,11 +136,25 @@ a couple Ruby users:
 
 They will of course be eaten last.
 
+=head1 LINKS
+
+=head2 BUG TRACKER
+
+https://rt.cpan.org/Dist/Display.html?Status=Active&Queue=Acme-Phlegethoth
+
+=head2 REPOSITORY
+
+http://thirdlobe.com/svn/acme-phlegethoth/
+
+=head2 OTHER RESOURCES
+
+http://search.cpan.org/dist/Acme-Phlegethoth/
+
 =head1 COPYRIGHT
 
-Copyright (c) 2006, Rocco Caputo.  All Rights Reserved.  This module
-is free software.  It may be used, redistributed and/or modified under
-the same terms as Perl itself.
+Copyright (c) 2006-2009, Rocco Caputo.  All Rights Reserved.  This
+module is free software.  It may be used, redistributed and/or
+modified under the same terms as Perl itself.
 
 Thanks to the "Cthuvian / English Dictionary" for providing the
 lexicon and translations in one convenient place.

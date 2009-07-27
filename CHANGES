@@ -1,4 +1,16 @@
 =================================
+2009-07-27T15:58:10.545904Z v1_04
+=================================
+
+  2009-07-27 15:57:47 (r16) by rcaputo; lib/Acme/Phlegethoth.pm M
+
+    Reorganize documentation links.
+
+  2009-07-27 04:29:25 (r15) by rcaputo; lib/Acme/Phlegethoth.pm M
+
+    Add links to the bug tracker, repository and other resources. 
+
+=================================
 2009-07-27T02:59:39.191729Z v1_03
 =================================
 
