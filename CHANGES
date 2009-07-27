@@ -1,6 +1,19 @@
-==============================
-9999-99-99 99:99:99 (untagged)
-==============================
+=================================
+2009-07-27T02:59:39.191729Z v1_03
+=================================
+
+  2009-07-27 02:59:02 (r13) by rcaputo
+  lib/Acme/Phlegethoth.pm M; Makefile.PL M
+
+    Try META_ADDing the repository URL. 
+
+  2008-12-15 16:18:50 (r12) by rcaputo; Makefile.PL M
+
+    Keep UTF8 out of the README, because that messes up the SYNOPSIS.
+
+  2006-11-06 19:20:32 (r11) by rcaputo; Makefile.PL M
+
+    Set a LICENSE. Cheap kwalitee points!
 
   2006-07-24 22:51:03 (r10) by rcaputo; lib/Acme/Phlegethoth.pm M
 
@@ -11,42 +24,6 @@
     Yaakov suggested that the package name use apostrophe rather than ::
     style namespaces. I compromised by having the Aklo version of the
     source use it. 
-
-=========================
-2006-07-03 18:37:34 v1_01
-=========================
-
-  2006-07-03 18:36:58 (r7) by rcaputo; lib/Acme/Phlegethoth.pm M
-
-    The stars are aligned. Version 1.01 rises from the deep. 
-
-  2006-07-03 18:35:15 (r6) by rcaputo; lib/Acme/Phlegethoth.pm M
-
-    Documentation cleanups. Provide a better translation. Linguistics is
-    HARD! 
-
-=========================
-2006-07-03 07:56:40 v1_00
-=========================
-
-  2006-07-03 07:56:33 (r4) by rcaputo
-  lib/Acme/Phlegethoth.pm M; Makefile.PL M
-
-    Less lame ABSTRACT. 
-
-  2006-07-03 07:30:03 (r3) by rcaputo; Makefile.PL M
-
-    Put the README file in the archive directory, also. 
-
-  2006-07-03 07:26:53 (r2) by rcaputo; MANIFEST M
-
-    Add CHANGES and README. 
-
-  2006-07-03 07:24:42 (r1) by rcaputo
-  /trunk A; lib/Acme/Phlegethoth.pm A; /branches A; t A; lib A; MANIFEST
-  A; t/01_basic.t A; Makefile.PL A; /tags A; lib/Acme A
-
-    Initial commit. Whee! 
 
 ==============
 End of Excerpt
