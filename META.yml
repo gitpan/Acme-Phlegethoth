@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Acme-Phlegethoth
-version:            1.04
+version:            1.05
 abstract:           Improve your code's readability, if you're an Ancient One
 author:
     - Rocco Caputo <rcaputo@cpan.org>
@@ -13,7 +13,7 @@ build_requires:
 requires:  {}
 resources:
     license:     http://dev.perl.org/licenses/
-    repository:  http://thirdlobe.com/svn/acme-phlegethoth/trunk
+    repository:  http://github.com/rcaputo/acme-phlegethoth
 no_index:
     directory:
         - t
